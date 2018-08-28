@@ -1,3 +1,5 @@
+[image_cert]: certificate.PNG "certificate of graduation"
+
 This is consolidated list of Udacity Flying Car Nanodegree projects.
 
 # FLYING CAR NANODEGREE - UDACITY
@@ -12,3 +14,5 @@ Moving a flying vehicle requires determining appropriate low-level motor control
 
 4) Project: Estimation    
 Utilize sensor fusion and filtering. Design an Extended Kalman Filter (EKF) to estimate attitude and position from IMU and GPS data of a flying robot.    
+
+![Graduation Certificate][image_cert]
